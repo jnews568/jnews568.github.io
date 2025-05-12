@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html>
+<html lang="id">
   <head>
-    <meta http-equiv="refresh" content="0; url=/berita/rss.xml" />
-    <title>Redirecting RSS...</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=https://jnews568.github.io/berita/rss.xml" />
+    <title>Redirect RSS</title>
   </head>
   <body>
-    <p>RSS feed telah pindah ke <a href="/berita/rss.xml">/berita/rss.xml</a>.</p>
+    <p>RSS feed telah dipindahkan ke <a href="https://jnews568.github.io/berita/rss.xml">https://jnews568.github.io/berita/rss.xml</a>. Jika Anda tidak dialihkan secara otomatis, silakan klik link tersebut.</p>
   </body>
 </html>
