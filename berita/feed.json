@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "NewsArticle",
+            "headline": "About",
+            "url": "https://jnews568.github.io/berita/about.html",
+            "datePublished": "2025-05-09T18:27:10+00:00",
+            "dateModified": "2025-05-09T18:27:10+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        },
+        {
+            "@type": "NewsArticle",
+            "headline": "Contact",
+            "url": "https://jnews568.github.io/berita/contact.html",
+            "datePublished": "2025-05-09T18:27:11+00:00",
+            "dateModified": "2025-05-09T18:27:11+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        },
+        {
+            "@type": "NewsArticle",
+            "headline": "Disclaimer",
+            "url": "https://jnews568.github.io/berita/disclaimer.html",
+            "datePublished": "2025-05-09T18:27:10+00:00",
+            "dateModified": "2025-05-09T18:27:10+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        },
+        {
+            "@type": "NewsArticle",
+            "headline": "Index",
+            "url": "https://jnews568.github.io/berita/index.html",
+            "datePublished": "2025-05-11T02:20:43+00:00",
+            "dateModified": "2025-05-11T02:20:43+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        },
+        {
+            "@type": "NewsArticle",
+            "headline": "Pinterest 05b93",
+            "url": "https://jnews568.github.io/berita/pinterest-05b93.html",
+            "datePublished": "2025-05-09T11:14:23+00:00",
+            "dateModified": "2025-05-09T11:14:23+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        },
+        {
+            "@type": "NewsArticle",
+            "headline": "Privacy",
+            "url": "https://jnews568.github.io/berita/privacy.html",
+            "datePublished": "2025-05-09T18:27:11+00:00",
+            "dateModified": "2025-05-09T18:27:11+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        },
+        {
+            "@type": "NewsArticle",
+            "headline": "Terms",
+            "url": "https://jnews568.github.io/berita/terms.html",
+            "datePublished": "2025-05-09T18:27:11+00:00",
+            "dateModified": "2025-05-09T18:27:11+00:00",
+            "author": {
+                "@type": "Organization",
+                "name": "JEWS568"
+            }
+        }
+    ]
+}
