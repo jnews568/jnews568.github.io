@@ -2,9 +2,9 @@ name: PHP Composer
 
 on:
   push:
-    branches: [ "jnews568" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "jnews568.github.io" ]
+    branches: [ "main" ]
 
 permissions:
   contents: read
