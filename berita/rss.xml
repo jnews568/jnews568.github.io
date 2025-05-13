@@ -1,18 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>JNEWS568 | Portal Blog Berita Opini Pengguna</title>
-<link>https://jnews568.github.io/berita/index.html</link>
-<description>JNEWS568 Platform berita online terbaru dengan opini pengguna sendiri.</description>
-<language>id</language>
-<lastBuildDate>Sun, 11 May 2025 14:00:05 +0000</lastBuildDate>
-<atom:link href="https://jnews568.github.io/berita/rss.xml" rel="self" type="application/rss+xml" />
-<item><title>About</title><link>https://jnews568.github.io/berita/about.html</link><guid>https://jnews568.github.io/berita/about.html</guid><description><![CDATA[About]]></description><pubDate>Fri, 09 May 2025 18:27:10 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Contact</title><link>https://jnews568.github.io/berita/contact.html</link><guid>https://jnews568.github.io/berita/contact.html</guid><description><![CDATA[Contact]]></description><pubDate>Fri, 09 May 2025 18:27:11 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Disclaimer</title><link>https://jnews568.github.io/berita/disclaimer.html</link><guid>https://jnews568.github.io/berita/disclaimer.html</guid><description><![CDATA[Disclaimer]]></description><pubDate>Fri, 09 May 2025 18:27:10 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Index</title><link>https://jnews568.github.io/berita/index.html</link><guid>https://jnews568.github.io/berita/index.html</guid><description><![CDATA[Index]]></description><pubDate>Sun, 11 May 2025 08:07:41 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Pinterest 05b93</title><link>https://jnews568.github.io/berita/pinterest-05b93.html</link><guid>https://jnews568.github.io/berita/pinterest-05b93.html</guid><description><![CDATA[Pinterest 05b93]]></description><pubDate>Fri, 09 May 2025 11:14:23 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Privacy</title><link>https://jnews568.github.io/berita/privacy.html</link><guid>https://jnews568.github.io/berita/privacy.html</guid><description><![CDATA[Privacy]]></description><pubDate>Fri, 09 May 2025 18:27:11 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Terms</title><link>https://jnews568.github.io/berita/terms.html</link><guid>https://jnews568.github.io/berita/terms.html</guid><description><![CDATA[Terms]]></description><pubDate>Fri, 09 May 2025 18:27:11 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-<item><title>Tips Menang Slot Jnews568</title><link>https://jnews568.github.io/berita/tips-menang-slot-jnews568.html</link><guid>https://jnews568.github.io/berita/tips-menang-slot-jnews568.html</guid><description><![CDATA[Tips Menang Slot Jnews568]]></description><pubDate>Sun, 11 May 2025 13:54:09 +0000</pubDate><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator></item>
-</channel></rss>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>JNEWS568 | Portal Blog Berita Opini Pengguna</title>
+        <link>https://jnews568.github.io/berita/index.html</link>
+        <description>JNEWS568 Platform berita online terbaru dengan opini pengguna sendiri.</description>
+        <language>id</language>
+        <lastBuildDate>Tue, 13 May 2025 14:46:45 +0000</lastBuildDate>
+        <atom:link href="https://jnews568.github.io/berita/rss.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>About</title>
+            <link>https://jnews568.github.io/berita/about.html</link>
+            <guid>https://jnews568.github.io/berita/about.html</guid>
+            <description><![CDATA[About]]></description>
+            <pubDate>Sun, 11 May 2025 14:47:57 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Contact</title>
+            <link>https://jnews568.github.io/berita/contact.html</link>
+            <guid>https://jnews568.github.io/berita/contact.html</guid>
+            <description><![CDATA[Contact]]></description>
+            <pubDate>Sun, 11 May 2025 14:47:57 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Disclaimer</title>
+            <link>https://jnews568.github.io/berita/disclaimer.html</link>
+            <guid>https://jnews568.github.io/berita/disclaimer.html</guid>
+            <description><![CDATA[Disclaimer]]></description>
+            <pubDate>Sun, 11 May 2025 14:47:57 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Google222b4309775ca7bd</title>
+            <link>https://jnews568.github.io/berita/google222b4309775ca7bd.html</link>
+            <guid>https://jnews568.github.io/berita/google222b4309775ca7bd.html</guid>
+            <description><![CDATA[Google222b4309775ca7bd]]></description>
+            <pubDate>Sun, 11 May 2025 14:44:58 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Google5d4bea1dfe6e1739</title>
+            <link>https://jnews568.github.io/berita/google5d4bea1dfe6e1739.html</link>
+            <guid>https://jnews568.github.io/berita/google5d4bea1dfe6e1739.html</guid>
+            <description><![CDATA[Google5d4bea1dfe6e1739]]></description>
+            <pubDate>Sun, 11 May 2025 14:44:58 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Googleec769437b8874b53</title>
+            <link>https://jnews568.github.io/berita/googleec769437b8874b53.html</link>
+            <guid>https://jnews568.github.io/berita/googleec769437b8874b53.html</guid>
+            <description><![CDATA[Googleec769437b8874b53]]></description>
+            <pubDate>Sun, 11 May 2025 14:44:58 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Googlef456d93aa48dd28f</title>
+            <link>https://jnews568.github.io/berita/googlef456d93aa48dd28f.html</link>
+            <guid>https://jnews568.github.io/berita/googlef456d93aa48dd28f.html</guid>
+            <description><![CDATA[Googlef456d93aa48dd28f]]></description>
+            <pubDate>Sun, 11 May 2025 14:44:58 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Index</title>
+            <link>https://jnews568.github.io/berita/index.html</link>
+            <guid>https://jnews568.github.io/berita/index.html</guid>
+            <description><![CDATA[Index]]></description>
+            <pubDate>Tue, 13 May 2025 13:09:49 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Pinterest 05b93</title>
+            <link>https://jnews568.github.io/berita/pinterest-05b93.html</link>
+            <guid>https://jnews568.github.io/berita/pinterest-05b93.html</guid>
+            <description><![CDATA[Pinterest 05b93]]></description>
+            <pubDate>Sun, 11 May 2025 14:47:57 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Privacy</title>
+            <link>https://jnews568.github.io/berita/privacy.html</link>
+            <guid>https://jnews568.github.io/berita/privacy.html</guid>
+            <description><![CDATA[Privacy]]></description>
+            <pubDate>Sun, 11 May 2025 14:47:57 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Slot Mahjong Ways 2</title>
+            <link>https://jnews568.github.io/berita/slot-mahjong-ways-2.html</link>
+            <guid>https://jnews568.github.io/berita/slot-mahjong-ways-2.html</guid>
+            <description><![CDATA[Slot Mahjong Ways 2]]></description>
+            <pubDate>Tue, 13 May 2025 13:48:56 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Terms</title>
+            <link>https://jnews568.github.io/berita/terms.html</link>
+            <guid>https://jnews568.github.io/berita/terms.html</guid>
+            <description><![CDATA[Terms]]></description>
+            <pubDate>Sun, 11 May 2025 14:47:57 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+        <item>
+            <title>Tips Menang Slot Jnews568</title>
+            <link>https://jnews568.github.io/berita/tips-menang-slot-jnews568.html</link>
+            <guid>https://jnews568.github.io/berita/tips-menang-slot-jnews568.html</guid>
+            <description><![CDATA[Tips Menang Slot Jnews568]]></description>
+            <pubDate>Tue, 13 May 2025 13:49:41 +0000</pubDate>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JNEWS568</dc:creator>
+        </item>
+    </channel>
+</rss>
