@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /berita/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /junk/
+
+# Sitemap & Feed
+Sitemap: https://jnews568.github.io/berita/sitemap.xml
+Sitemap: https://jnews568.github.io/berita/sitemap-news.xml
+Sitemap: https://jnews568.github.io/berita/rss.xml
+Sitemap: https://jnews568.github.io/berita/feed.json
+
+# Allow essential AMP assets
+Allow: /*.html$
+Allow: /*.json$
+Allow: /berita/*.html$
+Allow: /berita/*.json$
+Allow: /berita/*.xml$
