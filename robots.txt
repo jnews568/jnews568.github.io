@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /berita/
+Allow: /berita/Assets/
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /junk/
@@ -15,5 +16,5 @@ Sitemap: https://jnews568.github.io/berita/Atom.xml
 Allow: /*.html$
 Allow: /*.json$
 Allow: /berita/*.html$
-Allow: /berita/*.json$
+Allow: /berita/Assets/*.json$
 Allow: /berita/*.xml$
