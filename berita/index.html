@@ -21,6 +21,19 @@
     <script async custom-element="amp-subscriptions-google" src="https://cdn.ampproject.org/v0/amp-subscriptions-google-0.1.js"></script>
     <script type="application/json" id="amp-subscriptions"> { "services": [ { "serviceId": "subscribe.google.com", "authorizationUrl": "https://news.google.com/swg/_/api/v1/publication/CAowsd-6DA:openaccess", "actions": { "subscribe": "https://news.google.com/swg/_/ui/v1/swg/basic", "login": "https://news.google.com/swg/_/ui/v1/swg/login" } } ] } </script>
     <script type="application/json" id="amp-subscriptions"> { "services": [ { "serviceId": "subscribe.google.com", "authorizationUrl": "https://news.google.com/swg/_/api/v1/publication/CAowsd-6DA:next25", "actions": { "subscribe": "https://news.google.com/swg/_/ui/v1/swg/basic", "login": "https://news.google.com/swg/_/ui/v1/swg/login" } } ] } </script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <amp-analytics type="gtag" data-credentials="include">
+        <script type="application/json">
+        {
+            "vars" : {
+            "gtag_id": "G-43H2TCXFY8",
+            "config" : {
+                "G-43H2TCXFY8": { "groups": "default" }
+            }
+            }
+        }
+        </script>
+    </amp-analytics>
     <style amp-boilerplate="">
         body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
