@@ -192,17 +192,17 @@
             }
             }
         }
-          window.googletag = window.googletag || {cmd: []};
-    googletag.cmd.push(function() {
-        const swgPpsTaxonomies = JSON.parse(localStorage.getItem('subscribe.google.com:ppstaxonomies'));
-        googletag.setConfig({
-            pps: {
-                taxonomies: swgPpsTaxonomies
-            }
-        });
-    });
         </script>
     </amp-analytics>
+    <amp-subscriptions id="subscriptions" layout="nodisplay">
+  <script type="application/json">
+    {
+      "services": [
+        "subscribe.google.com"
+      ]
+    }
+  </script>
+</amp-subscriptions>
     <header>
       <h1><amp-img title="JNEWS568" src="https://jnews568.github.io/berita/img/logo.png" width="120" height="60" layout="intrinsic" alt="JNEWS568"></amp-img></h1>
       <p>Portal Blog Berita Opini Pengguna</p>
