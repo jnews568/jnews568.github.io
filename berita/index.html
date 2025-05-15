@@ -155,29 +155,6 @@
         }
     </style>
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-    <amp-analytics type="gtag" data-credentials="include">
-        <script type="application/json">
-        {
-            "vars" : {
-            "gtag_id": "G-43H2TCXFY8",
-            "config" : {
-                "G-43H2TCXFY8": { "groups": "default" }
-            }
-            }
-        }
-        </script>
-    </amp-analytics>
-      <script>
-    window.googletag = window.googletag || {cmd: []};
-    googletag.cmd.push(function() {
-        const swgPpsTaxonomies = JSON.parse(localStorage.getItem('subscribe.google.com:ppstaxonomies'));
-        googletag.setConfig({
-            pps: {
-                taxonomies: swgPpsTaxonomies
-            }
-        });
-    });
-  </script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -205,6 +182,27 @@
   </script>
   </head>
   <body>
+    <amp-analytics type="gtag" data-credentials="include">
+        <script type="application/json">
+        {
+            "vars" : {
+            "gtag_id": "G-43H2TCXFY8",
+            "config" : {
+                "G-43H2TCXFY8": { "groups": "default" }
+            }
+            }
+        }
+          window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+        const swgPpsTaxonomies = JSON.parse(localStorage.getItem('subscribe.google.com:ppstaxonomies'));
+        googletag.setConfig({
+            pps: {
+                taxonomies: swgPpsTaxonomies
+            }
+        });
+    });
+        </script>
+    </amp-analytics>
     <header>
       <h1><amp-img title="JNEWS568" src="https://jnews568.github.io/berita/img/logo.png" width="120" height="60" layout="intrinsic" alt="JNEWS568"></amp-img></h1>
       <p>Portal Blog Berita Opini Pengguna</p>
