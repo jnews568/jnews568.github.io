@@ -19,8 +19,6 @@
     <script async="" src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-subscriptions" src="https://cdn.ampproject.org/v0/amp-subscriptions-0.1.js"></script> 
     <script async custom-element="amp-subscriptions-google" src="https://cdn.ampproject.org/v0/amp-subscriptions-google-0.1.js"></script>
-    <script async custom-element="amp-subscriptions" src="https://cdn.ampproject.org/v0/amp-subscriptions-0.1.js"></script>
-    <script async custom-element="amp-subscriptions-google" src="https://cdn.ampproject.org/subscriptions-google-0.1.js"></script>
     <script type="application/json" id="amp-subscriptions"> { "services": [ { "serviceId": "subscribe.google.com", "authorizationUrl": "https://news.google.com/swg/_/api/v1/publication/CAowsd-6DA:next25", "actions": { "subscribe": "https://news.google.com/swg/_/ui/v1/swg/basic", "login": "https://news.google.com/swg/_/ui/v1/swg/login" } } ] } </script>
     <style amp-boilerplate="">
         body {
@@ -194,17 +192,13 @@
             }
             }
         }
-        </script>
-    </amp-analytics>
-    <amp-subscriptions id="subscriptions" layout="nodisplay">
-  <script type="application/json">
-    {
+          {
       "services": [
         "subscribe.google.com"
       ]
     }
-  </script>
-</amp-subscriptions>
+        </script>
+    </amp-analytics>
     <header>
       <h1><amp-img title="JNEWS568" src="https://jnews568.github.io/berita/img/logo.png" width="120" height="60" layout="intrinsic" alt="JNEWS568"></amp-img></h1>
       <p>Portal Blog Berita Opini Pengguna</p>
